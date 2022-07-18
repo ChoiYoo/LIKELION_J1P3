@@ -62,5 +62,5 @@
   transition: all 0.75s;
 }
 .fc_btn button:hover {
-  color: #facc0b;
+  color: orange;
 }
